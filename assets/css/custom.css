@@ -1,0 +1,35 @@
+.container {
+  max-width: 960px !important;}
+
+.bg-head-image{
+    background: no-repeat 0 0 url("../img/header-bg.jpg");
+    padding-bottom: 650px !important;
+  }
+  .logo-postion{position:absolute; width: 220px; height: 161px; z-index: 20;  left: 50%;
+  margin-left: -110px;
+  top: 8%;
+  margin-top: -50px;}
+  .head-image-wrap{position:absolute;; top:0; left:0; z-index: 0; display: block; }
+  .head-image-wrap img{display: block;}
+  .no-pad {padding: 0px !important;}
+
+.text-orange{ color: #ff9400;}
+
+.bg-blue{ background-color: #1E88E5 !important;}
+
+.bg-pink{ background-color:#e01c52;}
+
+.font-size-22{ font-size: 22px; line-height: 28px;}
+.bg-grey{ background-color: #fcfcfc;}
+
+.bg-grey-dark{ background-color:#374659;}
+.list-style1 li{
+padding: 0px 0px 0px 50px;
+background: url("../css/checkbox.png") 0 0 no-repeat;
+list-style:none;
+font-weight: bold;
+font-size: 24px;
+line-height: 45px;
+
+
+}
